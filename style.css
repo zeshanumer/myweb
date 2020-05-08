@@ -1,0 +1,464 @@
+body{
+
+    background-color: whitesmoke;
+}
+
+
+
+
+
+
+
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   margin: 10px 10px 10px;
+   font-size: inherit ;
+background-color: royalblue;
+ height: 40px;
+ color: white;
+ 
+}
+ .six {
+    position: absolute;
+    top: 15px;
+   left: 1100px; 
+   
+}
+ .seven {
+    position: absolute;
+    top: 16px;
+    left: 1200px;
+    
+}
+ .eight {
+    position: absolute;
+    top:17px;
+   left: 1320px; 
+ 
+}
+.one{
+     position: absolute;
+     top: 20px;
+     left: 140px;
+     width:25px ;
+     height:15px;
+} 
+ .two{
+    position: absolute;
+     top: 20px;
+     left: 190px;
+     width:25px ;
+     height:15px;
+}
+ .three{
+    position: absolute;
+    top: 20px;
+    left: 238px;
+    width:20px ;
+    height: 15px;
+}
+.four{
+    position: absolute;
+     top: 20px;
+     left: 288px;
+     width:20px ;
+     height: 15px;
+} 
+.five{
+    position: absolute;
+     top: 13px;
+     left: 323px;
+     width:30px ;
+     height: 29px;
+} 
+.nine{
+    position: absolute;
+    top: 60px;
+    left:140px;
+
+}
+
+.ten{
+    position: absolute;
+    top: 70px;
+    left: 600px;
+    background-color: royalblue;
+    color: white;
+    height: 40px;
+    width: 80px;
+    border-radius:25px;
+    
+}
+
+table{
+    background-color: whitesmoke;
+}
+
+.Ab{
+   position: absolute;
+  top: 80px;
+   left :700px;
+}
+
+.SS{
+    position: absolute;
+    top: 80px;
+     left :800px;
+}
+
+.FP{
+    position: absolute;
+    top: 80px;
+     left:955px;
+}
+
+.Me{
+    position: absolute;
+    top: 80px;
+     left:1100px;
+}
+
+.Ne{
+    position: absolute;
+    top: 80px;
+     left:1200px;
+}
+.Do{
+    position: absolute;
+    top: 80px;
+     left:1300px;
+
+}
+
+
+marquee{
+    background-color: royalblue;
+    color: white;
+    text-align: center;
+    width: 80%;
+    height: 30px;
+}
+p{
+    text-align: center;
+   
+}
+b{
+    color: royalblue;
+}
+strong{
+    color:rgb(68, 196, 68);
+}
+.seventeenth{
+    position: absolute;
+    top: 740px;
+    left: 770px;
+   
+}
+hr{
+    background-color: green;
+    width: 10%;
+    size: 30;
+   
+}
+
+.eighteenth{
+    background-color: royalblue;
+    color:black;
+    width: 100%;
+    height: 300px;
+}
+.ninteenth{
+
+    position: absolute;
+   top: 1320px;
+   left: 270px;
+   font-size: xxx-large;
+   font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.twenty{
+    background-color: royalblue;
+    color: white;
+    
+    width:100%;
+    height:300px;
+}
+.eighty{
+
+    position: absolute;
+    top: 1380px;
+    left: 340px;
+}
+ 
+.eightyone{
+    position: absolute;
+    top: 1420px;
+    left: 370px;
+    font-size: large;
+}
+
+.eightytwo{
+    position: absolute;
+    top: 1500px;
+    left: 250px;
+}
+
+.seventy{
+    position: absolute;
+    top: 1380px;
+    left: 670px;
+}
+
+.seventyone{
+    position: absolute;
+    top: 1420px;
+    left: 635px;
+    font-size: xxx-large;
+}
+
+.seventytwo{
+    position: absolute;
+    top: 1500px;
+    left: 580px;
+}
+
+.fifty{
+    position: absolute;
+    top: 1385px;
+    left: 950px;
+}
+
+.fiftyone{
+    position: absolute;
+    top: 1425px;
+    left: 910px;
+    font-size: xxx-large;
+}
+
+.fiftytwo{
+    position: absolute;
+    top: 1500px;
+    left: 900px;
+
+}
+.ninety{
+    position: absolute;
+    top: 1385px;
+    left: 1220px;
+
+}
+.ninetyone{
+    position: absolute;
+    top: 1425px;
+    left: 1150px;
+    font-size: xxx-large;
+}
+.ninetytwo{
+    position: absolute;
+    top: 1500px;
+    left: 1145px;
+}
+.ninetythree{
+    position: absolute;
+    top: 1705px;
+    left: 770px;
+}
+.sadqah{
+    position:absolute;
+    top: 1890px;
+    left: 300px;
+}
+.welfare{
+    position:absolute;
+    top: 1890px;
+    left: 720px;
+}
+.medical{
+    position:absolute;
+    top: 1890px;
+    left: 1120px;
+}
+.dastar{
+    position:absolute;
+    top: 2100px;
+    left: 320px;
+}
+.plant{
+    position:absolute;
+    top: 2100px;
+    left: 720px;
+}
+.education{
+    position:absolute;
+    top: 2100px;
+    left: 1120px;
+}
+ h3{
+     font-size: xx-large;
+     font-family:Georgia, 'Times New Roman', Times, serif;
+ }
+ 
+ .box{
+     background-color: white;
+     width: 350px;
+     height: 200px;
+     position: relative;
+     top: 100px;
+     left: 200px;
+     display: inline-block;
+     margin-right: 50px;
+     margin-bottom: 20px;
+ }
+ .box span{
+        position: relative;
+        top: 90px;
+        left: 100px;
+        text-align: center;
+        font-family:' merriweather';
+        font-size: 20px;
+        text-transform: uppercase;
+        color: royalblue;
+        font-weight: 100px;
+ }
+ .box i{
+     position: relative;
+     top: 80px;
+     left: 180px;
+     font-size: 50px;
+     color: royalblue;
+ }
+
+ .boxes{
+    background-color:white;
+    width: 350px;
+    height: 80px;
+    position: relative;
+    top: 210px;
+    left: 200px;
+    display: inline-block;
+    margin-right: 50px;
+    margin-bottom: 20px;
+ }
+ .boxes span{
+    position: relative;
+    top: 0px;
+    left: 80px;
+    text-align: center;
+    font-family:' merriweather';
+    font-size: 20px;
+    text-transform: uppercase;
+    color: royalblue;
+    font-weight: 100px;
+ }
+ .boxes i{
+    position: relative;
+    top: 0px;
+    left: 150px;
+    /* position: absolute;
+    top: 2000;
+    left:150px; */
+    font-size: 50px;
+    color: royalblue;
+}
+.event{
+    background-color: white;
+    color: black;
+    width: 20% ;
+    height: 25% ;
+    position: absolute;
+    top: 2470px;
+    left: 1000px;
+}
+
+.mission{
+     font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+    position: absolute;
+    top: 2590px;
+    left: 200px;
+    position: relative;
+    top: 220px;
+    left: 200px;
+}
+
+h4{
+    position: absolute;
+    top: 2750px;
+    left: 680px;
+    font-size: xx-large;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+.sixtyfour{
+    position: absolute;
+    top: 2795px;
+    left: 765px;
+
+}
+h6{
+    position: relative;
+    top: 180px;
+    left: 1000px;
+    font-size: xx-large;
+
+}
+
+.gallery{
+    margin: 10px 50px;
+    position: relative;
+    top: 0px;
+    left: 150px;
+}
+
+.gallery img{
+    width: 230px;
+    padding: 5px;
+    transition: 1s;
+}
+
+.gallery img: hover {
+    transform:scale(1.1);
+
+}
+
+.footer-wrapper{
+
+    width: 1100px;
+    margin: 0auto;
+}
+
+.single-footer{
+    width: 33%;
+    float: left;
+    text-align: left;
+    color: #fff;
+
+}
+
+.single-footer ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.single-footer ul a{
+    text-decoration: uppercase;
+    text-decoration: none;
+    color: #fff;
+    font-size: 12px;
+}
+.single-footer p{
+    width: 70%;
+}
+footer{
+    width: 100%;
+    height: 250px;
+    
+    bottom: 0;
+    z-index: -1;
+    background-color: black;
+}
+h2{
+    font-size: small;
+}
+.h2{
+    font-size: xxx;
+}
